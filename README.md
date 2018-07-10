@@ -1,2 +1,0 @@
-# helloreact
-Created with CodeSandbox
